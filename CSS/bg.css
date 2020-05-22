@@ -1,0 +1,28 @@
+body{
+    background-image: url('../Image/b1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 700px;
+}
+#content{
+    text-align: center;
+    padding-top: 25%;
+    color: #060606;
+    text-shadow: 0px 6px 4px rgb(0,0,0,0.5),
+                 0px 10px 15px rgb(0,0,0,0.2),
+                 0px 20px 25px rgb(0,0,0,0.2);
+}
+hr{
+    width: 500px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgb(0,0,0,0.2);
+}
+div h1{
+    color: #f8f8f8;
+    font-size: 5em;
+    font-weight: 700;
+}
+div h3{
+    font-size: 2em;
+    font-weight: 500;
+}
